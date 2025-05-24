@@ -44,7 +44,7 @@
 ### Collaboration & Contact
 
 * Community-driven ideas and collaborative development welcome.
-* Project management via *(planning)*:
+* Project management via *(WIP planning)*:
 
   * [Notion Workspace](https://adai.donetoolkit.com/1fb5708902a081f2a3f5c990ad506092?v=1fb5708902a080a697dd000c822b69dd)
   * [GitHub Issues](https://github.com/orgs/Testbed-for-Alibre-Design/projects/5)
