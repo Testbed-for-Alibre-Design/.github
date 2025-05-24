@@ -50,6 +50,8 @@
   * [GitHub](https://github.com/orgs/Testbed-for-Alibre-Design/projects/5)
   * [YouTrack](https://testbed-for-alibre-design.youtrack.cloud/issues)
 
+Submit Script and Addon ideas -> [Form](https://donetoolkit.notion.site/1fd5708902a080c4971cf456357fa399)
+
 ---
 
 Contact directly or through the provided platforms for collaboration opportunities and inquiries.
