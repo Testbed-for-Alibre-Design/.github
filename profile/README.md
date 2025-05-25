@@ -19,8 +19,8 @@
 
 * **Testbed for Alibre Design (T4AD)**: Collection of Alibre Design tools.
 * **Dynamo for Alibre Design (D4AD)**: Dynamo visual scripting integration for querying, importing, and exporting Alibre data.
-* **FreeCAD for Alibre Design (F4AD)**: Under consideration—possibly standalone or integrated within T4AD.
-* **Rhino/Grasshopper inside Alibre Design (RhGhInAD)**: Integration with Rhino/Grasshopper *(currently outdated)*.
+* **FreeCAD Inside Alibre Design (F4AD)**: Under consideration—possibly standalone or integrated within T4AD.
+* **Rhino/Grasshopper Inside Alibre Design (RhGhInAD)**: Integration with Rhino/Grasshopper *(currently outdated)*.
 * **TestbedUI**: Plugin for bidirectional Alibre topology and model data exchange in the Testbed application *(planned)*.
 * **Alibre Python Shell**
 
