@@ -11,7 +11,7 @@
 * Non-linear, integrated development.
 * Open for collaboration—ideas frequently initiated from user requests or forum discussions.
 * Research and development first
-* Data driven
+* Data-driven
 
 ---
 
