@@ -1,4 +1,4 @@
-# This GitHub organization is moving to [Gitea](https://tn7jff.gitea.cloud/explore/repos) : https://tn7jff.gitea.cloud/explore/repos
+# This GitHub organization is moving to [Gitea](https://docs.gitea.com/) : https://tn7jff.gitea.cloud/explore/repos
 
 ![image](https://github.com/user-attachments/assets/d4db7643-4d8b-45df-b7fd-5338df1bb2c0)
 
